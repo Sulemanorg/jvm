@@ -1,2 +1,2 @@
-# jvm_img
+# jvm
 About JVM
